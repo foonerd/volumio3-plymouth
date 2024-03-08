@@ -47,7 +47,7 @@ sudo apt install build-essential fakeroot devscripts
 
 sudo apt install cmake 
 
-### Install mpd dependencies:
+### Install plymouth dependencies:
 
 sudo apt build-dep plymouth
 
