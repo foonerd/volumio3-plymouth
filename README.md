@@ -1,4 +1,4 @@
-# mpd
+# plymouth
 
 Plymouth is an application that runs very early in the boot process (even before the root filesystem is mounted!) that provides a graphical boot animation while the boot process happens in the background.
 
